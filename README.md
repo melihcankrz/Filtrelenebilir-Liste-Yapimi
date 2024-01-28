@@ -12,3 +12,7 @@ Bu proje, araç markalarını filtreleme özelliği sunan basit bir web uygulama
 - HTML
 - CSS (Bootstrap)
 - JavaScript
+
+
+https://github.com/melihcankrz/Filtrelenebilir-Liste-Yapimi/assets/148056955/55dd5b3a-6492-4e5b-ae0f-8a17441cfba3
+
